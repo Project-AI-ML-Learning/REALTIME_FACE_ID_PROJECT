@@ -127,3 +127,5 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 print("Done! Webcam released successfully.")
+
+#We hired a robot friend and gave him a face picture book. We turned on the webcam and told him to watch it non-stop. Every photo he takes, he converts to black and white, searches for faces using his picture book, draws green boxes around them, writes labels, and shows us the result — 30 times every single second. When we press Q, he cleans up and goes home.
